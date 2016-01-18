@@ -13,3 +13,10 @@ while (count < 9):
 	count= count+1
 
 print "this is the end"
+
+
+
+a="I am the start"
+b="I am the end"
+print  a,b
+
